@@ -2,7 +2,7 @@
 
 namespace _05.MethodsOverloading
 {
-    class OverloadingMethods
+    class OverloadingMethods // is - > many methods with one and same name but with different parameters  passed ! 
     {
 
         static int Multiply(int a, int b) 
